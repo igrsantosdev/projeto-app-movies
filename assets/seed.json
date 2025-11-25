@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/1917poster.jpg",
+    "title": "Exemplo: 1917",
+    "genre": "Guerra",
+    "ageRating": "16",
+    "duration": "1h 59m",
+    "rating": 4.5,
+    "description": "Filme de guerra com narrativa contínua.",
+    "year": 2019
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8a/Dune_%282021%29_Book_Cover.jpg",
+    "title": "Exemplo: Dune",
+    "genre": "Ficção",
+    "ageRating": "12",
+    "duration": "2h 35m",
+    "rating": 4.0,
+    "description": "Epopéia de ficção científica.",
+    "year": 2021
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/Inception_ver3.jpg",
+    "title": "Exemplo: Inception",
+    "genre": "Suspense",
+    "ageRating": "14",
+    "duration": "2h 28m",
+    "rating": 4.7,
+    "description": "Um ladrão que invade sonhos.",
+    "year": 2010
+  }
+]

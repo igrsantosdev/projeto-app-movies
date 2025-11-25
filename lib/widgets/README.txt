@@ -1,0 +1,1 @@
+Widgets folder for custom widgets (none required for this exercise).
